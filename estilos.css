@@ -22,7 +22,7 @@ h2{
     
 @media screen and (max-width:699px) {
     .titulo {
-    font-size: 90px;
+    font-size: 50px;
     
     }
 }
@@ -38,7 +38,7 @@ h2{
     font-family: 'Amatic SC';
     text-shadow: 4px 2px #ffffff;
     margin-bottom: 10rem;
-    font-size: 50px;
+    font-size: 25px;
 
 }
 
